@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bitehub/static/css/main.8f5f53c8.css",
+    "main.js": "/bitehub/static/js/main.b2f01101.js",
+    "static/js/453.41fb9a2d.chunk.js": "/bitehub/static/js/453.41fb9a2d.chunk.js",
+    "static/media/welcome.png": "/bitehub/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/bitehub/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/bitehub/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/bitehub/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/Food3.jpeg": "/bitehub/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/bitehub/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/DeliveryImg.png": "/bitehub/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/bitehub/index.html",
+    "main.8f5f53c8.css.map": "/bitehub/static/css/main.8f5f53c8.css.map",
+    "main.b2f01101.js.map": "/bitehub/static/js/main.b2f01101.js.map",
+    "453.41fb9a2d.chunk.js.map": "/bitehub/static/js/453.41fb9a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f5f53c8.css",
+    "static/js/main.b2f01101.js"
+  ]
+}
