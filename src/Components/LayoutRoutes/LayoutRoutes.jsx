@@ -10,7 +10,7 @@ import NotFound from '../../Pages/NotFound/NotFound';
 
 function LayoutRoutes() {
   return (
-    <Router basename="/bitehub">
+    <Router basename="/yazz-bite-hub">
         <Header/>
             <Routes>
             <Route path='/' element={ <Home/> }/>
