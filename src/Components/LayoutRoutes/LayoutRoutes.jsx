@@ -10,7 +10,7 @@ import NotFound from '../../Pages/NotFound/NotFound';
 
 function LayoutRoutes() {
   return (
-    <Router>
+    <Router basename="/bitehub">
         <Header/>
             <Routes>
             <Route path='/' element={ <Home/> }/>
